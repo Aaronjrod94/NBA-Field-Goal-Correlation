@@ -1,1 +1,1 @@
-# NBA-Field-Goal-Correlation
+# NBA Field Goal & Wins Correlation
